@@ -1,0 +1,1 @@
+select CITY,STAGE from STATION where COUNTRYCODE = 'JPN'
